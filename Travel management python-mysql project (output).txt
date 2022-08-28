@@ -1,0 +1,90 @@
+
+
+                **************Welcome To Travelling World****************
+
+
+                        Enter 1 to sign up or 2 to log in.
+
+                        Your choice:1
+                                ----------------
+                                | Sign Up Page |
+                                ----------------
+
+
+                        First Name:akash
+                        Last Name:swami
+                        Mobile no:12345
+                        Invalid mobile number please re-enter again....
+                        Mobile no:1234567890123
+                        Invalid mobile number please re-enter again....
+                        Mobile no:1234567890
+                        User id:akash
+                        Password:1234
+
+                        Registration succeful
+                                --------------
+                                | Login Page |
+                                --------------
+
+
+                        Enter userId :  akah
+                        Incorrect user id...
+                        Enter userId :  akash
+                        Enter the Password :    1234567
+                        Incorrect password...
+                        Enter userId :  akash
+                        Enter the Password :    1234
+        --------------------------------------------------------------
+                        The captcha is:  ( 33 + 70 )
+                        Solve the captcha :     103
+        --------------------------------------------------------------
+                        You Are Succefully Logged In.....
+        --------------------------------------------------------------
+                        Your transport mediums are:
+                                        1)BUS
+                                        2)TRAIN
+                                        3)AIROPLANE
+
+                        Enter your transport medium:    bus
+                        Your Arrival location is PUNE.
+                        Your Destination's location are:
+                                        1)Mumbai
+                                        2)Thane
+                                        3)Nagpur
+                                        4)Nashik
+                                        5)SambhajiNagar
+                        Choose one of them:     thane
+                        Details as shown below:
+                                Date:  27-06-2022
+                                Time:  10:30 AM
+                                Budgets:  800
+                                duration:  5hr
+
+        --------------------------------------------------------------
+                        Enter no of passengers:2
+        --------------------------------------------------------------
+                        Passenger No: 1
+                         First Name :   hardik
+                         Last Name :    mali
+                         Age :  19
+                         Mobile no. :12345678
+                         Invalid mobile number please re-enter again....
+                         Mobile no. :234567890123
+                         Invalid mobile number please re-enter again....
+                         Mobile no. :1234567890
+        --------------------------------------------------------------
+
+
+                        Passenger No: 2
+                         First Name :   akash
+                         Last Name :    swami
+                         Age :  20
+                         Mobile no. :1234567890
+        --------------------------------------------------------------
+
+
+                        Your total bill amount is : 1600
+
+                        Your details are successfully saved
+
+                        THANK YOU!
