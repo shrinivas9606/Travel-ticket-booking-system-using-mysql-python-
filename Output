@@ -1,0 +1,95 @@
+PS C:\Users\Shrinivas\OneDrive\Documents\Coding\database_connector> python -u "c:\Users\Shrinivas\OneDrive\Documents\Coding\database_connector\first1.py"
+
+
+                **************Welcome To Travelling World****************
+
+
+                        Enter 1 to sign up or 2 to log in.
+
+                        Your choice:1
+                                ----------------
+                                | Sign Up Page |
+                                ----------------
+
+
+                        First Name:Shrinivas
+                        Last Name:Narhare
+                        Mobile no:12345
+                        Invalid mobile number please re-enter again....
+                        Mobile no:1234567890123
+                        Invalid mobile number please re-enter again....
+                        Mobile no:1234567890
+                        User id:Shrinivas
+                        Password:12345
+        --------------------------------------------------------------
+
+                        Registration succeful
+        --------------------------------------------------------------
+
+
+                                --------------
+                                | Login Page |
+                                --------------
+
+
+                        Enter userId :  Shrinivas
+                        Enter the Password :    12345
+        --------------------------------------------------------------
+                        The captcha is:  ( 41 + 59 )
+                        Solve the captcha :     100
+        --------------------------------------------------------------
+                        You Are Succefully Logged In.....
+        --------------------------------------------------------------
+                        Your transport mediums are:
+                                        1)BUS
+                                        2)TRAIN
+                                        3)AIROPLANE
+
+                        Enter your transport medium:    bus
+
+        --------------------------------------------------------------
+                        Your Arrival location is PUNE.
+        --------------------------------------------------------------
+
+                        Your Destination's location are:
+                                        1)Mumbai
+                                        2)Thane
+                                        3)Nagpur
+                                        4)Nashik
+                                        5)SambhajiNagar
+                        Choose one of them:     thane
+                        Details as shown below:
+                                Date:  27-06-2022
+                                Time:  10:30 AM
+                                Budgets:  800
+                                duration:  5hr
+
+        --------------------------------------------------------------
+                        Enter no of passengers:2
+        --------------------------------------------------------------
+                        Passenger No: 1
+                         First Name :   Aman  
+                         Last Name :    Naurangabadi
+                         Age :  19
+                         Mobile no. :123
+                         Invalid mobile number please re-enter again....
+                         Mobile no. :1234567890123
+                         Invalid mobile number please re-enter again....
+                         Mobile no. :1234567890
+        --------------------------------------------------------------
+
+
+                        Passenger No: 2
+                         First Name :   Devang
+                         Last Name :    Chaudhari
+                         Age :  20
+                         Mobile no. :1234567890
+        --------------------------------------------------------------
+
+
+                        Your total bill amount is : 1600
+
+                        Your details are successfully saved
+
+                        THANK YOU!
+PS C:\Users\Shrinivas\OneDrive\Documents\Coding\database_connector> 
